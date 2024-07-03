@@ -1,0 +1,1 @@
+A very simple and first program I made as i learned python. It takes the amount of a bill a group of people need to pay, the percentage of tip you will like to give and outputs how much each individual needs to pay. 
